@@ -93,7 +93,7 @@ All connectors are through-holes so that you can not populate them and directly 
 - J10: Power source
 	- 1: 3.3V
 	- 2: GND
-- S2: select J6 pin 6 between GND and IO2
+- S2: select J6 pin 6 between GND and IO0
 - Green LED: (14) IO12, active low
 - Red LED: (16) IO13, active low
 - TAS575x Speaker mute (13) IO14
